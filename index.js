@@ -12,9 +12,12 @@ app.use(bodyParser.json())
 
 // this is the routing, a get request for url /page2 comes here
 // but not /page2/home
-app.get('/page2', (req, res) => {
-  console.log('page2 get request');
- res.sendStatus(200)
+app.get('/private/home.html', (req, res) => {
+  const path = __dirname + "/private/home.html"
+  console.log('page2 get request', path);
+  res.sendFile(path)
+  //res.sendFile("./public/home.html");
+  //res.sendStatus(200)
 })
 
 // on app.post, call create user in store
