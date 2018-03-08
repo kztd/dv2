@@ -10,12 +10,14 @@ const app = express()
 app.use(express.static('public'))
 app.use(bodyParser.json())
 
-// on app.post, call create user in store
+// this is the routing, a get request for url /page2 comes here
+// but not /page2/home
 app.get('/page2', (req, res) => {
   console.log('page2 get request');
  res.sendStatus(200)
 })
 
+// on app.post, call create user in store
 app.post('/createUser', (req, res) => {
   store
     .createUser({
