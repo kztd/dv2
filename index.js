@@ -27,15 +27,23 @@ app.post('/createUser', (req, res) => {
     .then(() => res.sendStatus(200))
 })
 
-app.post('/login', (req, res) => {
+// 
+app.post('/loginUser', (req, res) => {
+  console.log('call auth with ', req.body.username, req.body.password)
   store
     .authenticate({
       username: req.body.username,
       password: req.body.password
     })
     .then(({ success }) => {
-      if (success) res.sendStatus(200)
-      else res.sendStatus(401)
+      if (success){
+        console.log('login success')
+        res.sendStatus(200)
+      } 
+      else{
+        console.log('login fail')
+        res.sendStatus(401)
+      } 
     })
 })
 app.listen(7555, () => {
