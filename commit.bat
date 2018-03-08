@@ -1,2 +1,2 @@
 git add .
-git commit -m "cmd commit"
+git commit -m $1
