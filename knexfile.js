@@ -3,6 +3,6 @@ module.exports = {
   connection: {
     user: 'dvuser',
     password: 'dvpass',
-    database: 'dv1'
+    database: 'dv2'
   }
 }
