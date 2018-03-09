@@ -1,0 +1,66 @@
+IPODt,DivFreq,LiqPrc,CDX3,Yahoo,TS,Coupon,Issuer,Score,Dings,ExDate,Win,Industry,Common Note
+1/29/2013,Q,25,ABR-A,ABR-PA,ABR.PA,0.0825,ABR,9,Moodys,2/14/2018,Yes,REIT - MultiFamily Cmcl,"Long history, solid rising divs"
+5/6/2013,Q,25,ABR-B,ABR-PB,ABR.PB,0.0775,ABR,9,Moodys,2/14/2018,No,REIT - MultiFamily Cmcl,"Long history, solid rising divs"
+2/20/2014,Q,25,ABR-C,ABR-PC,ABR.PC,0.085,ABR,9,Moodys,2/14/2018,Yes,REIT - MultiFamily Cmcl,"Long history, solid rising divs"
+6/25/2014,Q,25,AFSI-B,AFSI-PB,AFSI.PB,0.0725,AFSI,8,"Moodys,NonCum",2/28/2018,No,Fncl - Insurance,divs rising but stock 1/2 what it was in 2015
+9/9/2014,Q,25,AFSI-C,AFSI-PC,AFSI.PC,0.07625,AFSI,8,"Moodys,NonCum",2/28/2018,No,Fncl - Insurance,divs rising but stock 1/2 what it was in 2015
+3/12/2015,Q,25,AFSI-D,AFSI-PD,AFSI.PD,0.075,AFSI,8,"Moodys,NonCum",2/28/2018,No,Fncl - Insurance,divs rising but stock 1/2 what it was in 2015
+3/8/2016,Q,25,AFSI-E,AFSI-PE,AFSI.PE,0.0775,AFSI,8,"Moodys,NonCum",2/28/2018,No,Fncl - Insurance,divs rising but stock 1/2 what it was in 2015
+9/20/2016,Q,25,AFSI-F,AFSI-PF,AFSI.PF,0.0695,AFSI,8,"Moodys,NonCum",2/28/2018,No,Fncl - Insurance,divs rising but stock 1/2 what it was in 2015
+9/20/2012,Q,25,AGIIL,AGIIL,AGIIL,0.065,AGII,8,"Moodys,Foreign",2/28/2018,No,Fncl - Insurance,"Had 2 qtrs of loss, but future looks good, strong rising divs"
+12/14/2001,Q,25,AGO-B,AGO-PB,AGO.PB,0.06875,AGO,9,Foreign,2/27/2018,No,Fncl - Insurance,Solid long history
+5/5/2017,Q,25,AI-B,AI-PB,AI.PB,0.07,AI,9,Moodys,2/23/2018,Yes,Mortgage Portfolio,"Decreasing divs and earnings, levered portfolio"
+2/28/2017,Q,25,APO-A,APO-PA,APO.PA,0.06375,APO,8,"Moodys,NonCum",2/28/2018,Yes,Alt Investment Mgr,"Pays a lot of divs, good earnings"
+6/1/2015,Q,25,ASB-C,ASB-PC,ASB.PC,0.06125,ASB,9,NonCum,2/28/2018,,Bank,Solid E & Dv
+9/7/2016,Q,25,ASB-D,ASB-PD,ASB.PD,0.05375,ASB,8,"Rate,NonCum",2/28/2018,,Bank,Solid E & Dv
+5/14/2013,Q,25,AXS-D,AXS-PD,AXS.PD,0.055,AXS,7,"Rate,NonCum,Foreign",2/14/2018,,ReInsurer,"1 Bad Qtr, but e > 1/ qtr"
+6/5/2013,Q,25,BANC-C,BANC-PC,BANC.PC,0.08,BANC,8,"Moodys,NonCum",2/28/2018,,Banc of CA,Earnings down but still good
+3/31/2015,Q,25,BANC-D,BANC-PD,BANC.PD,0.07375,BANC,8,"Moodys,NonCum",2/28/2018,,Banc of CA,Earnings down but still good
+2/1/2016,Q,25,BANC-E,BANC-PE,BANC.PE,0.07,BANC,8,"Moodys,NonCum",2/28/2018,,Banc of CA,Earnings down but still good
+4/9/2008,Q,25,BCS-D,BCS-PD,BCS.PD,0.08125,BCS,7,"Rate,NonCum,Foreign",2/28/2018,,Barclays PLC ADR,"Choppy divs, no E bec ADR"
+9/14/2005,Q,100,CHK-D,CHK-PD,CHK.PD,0.045,CHK,6,"Rate,Moodys,OptConv,Liq",2/28/2018,,Oil and gas wells,"killed div, penny stock making $"
+10/6/2016,Q,25,CIM-A,CIM-PA,CIM.PA,0.08,CIM,9,Moodys,2/28/2018,,REIT - Mortgage,m-reit hasn't dropped div yet
+2/22/2017,Q,25,CIM-B,CIM-PB,CIM.PB,0.08,CIM,8,"Calldt,Moodys",2/28/2018,,REIT - Mortgage,m-reit hasn't dropped div yet
+10/22/2017,Q,25,GNT-A,GNT-PA,GNT.PA,0.052,GNT,9,Rate,12/15/2017,No,CEF Gold,"No earnings, divs and price decreasing"
+8/21/2017,Q,25,HCAPZ,HCAPZ,HCAPZ,0.06125,HCAP,8,"Calldt,Moodys",2/28/2018,No,CEF - Small/Mid Finance,"Stock down, Just dropped div .095 from .11 to .10 E proj a little lower but still good"
+10/6/2017,Q,25,IIPR-A,IIPR-PA,IIPR.PA,0.09,IIPR,9,Moodys,12/28/2017,Yes,Pot farm reit,"No history, pot farm"
+11/2/2017,Q,25,INN-E,INN-PE,INN.PE,0.0625,INN,9,Moodys,2/15/2018,Yes,REIT - Hotel,Thin earn good divs
+3/10/2016,Q,25,KKR-A,KKR-PA,KKR.PA,0.0675,KKR,8,"Moodys,NonCum",2/28/2018,,Asset Mgr,Dropped div 2015 with E problem solid since
+6/13/2016,Q,25,KKR-B,KKR-PB,KKR.PB,0.065,KKR,8,"Moodys,NonCum",2/28/2018,,Asset Mgr,Dropped div 2015 with E problem solid since
+8/11/2015,Q,25,NGHCZ,NGHCZ,NGHCZ,0.07625,NGHC,9,Moodys,2/28/2018,No,"Insure, P&C and A&H","Small div, history start 2014"
+5/11/2012,Q,25,NLY-C,NLY-PC,NLY.PC,0.07625,NLY,8,"CallDt,Moodys",2/28/2018,,REIT - Mortgage,Div's decreasing on common
+9/7/2012,Q,25,NLY-D,NLY-PD,NLY.PD,0.075,NLY,9,Moodys,2/28/2018,,REIT - Mortgage,Div's decreasing on common
+7/25/2017,Q,25,NLY-F,NLY-PF,NLY.PF,0.0695,NLY,9,Moodys,2/28/2018,,REIT - Mortgage,Div's decreasing on common
+1/8/2018,Q,25,NLY-G,NLY-PG,NLY.PG,0.065,NLY,9,Moodys,2/28/2018,,REIT - Mortgage,Div's decreasing on common
+11/17/2016,Q,25,NS-A,NS-PA,NS.PA,0.085,NS,9,Moodys,2/28/2018,,"Engy Pipeline, storage, fuels","Pays $1 / qtr, future earnings look slim"
+10/3/2017,Q,25,NSA-A,NSA-PA,NSA.PA,0.06,NSA,9,Moodys,12/14/2017,Yes,REIT - Self Storage,"3 yr history, last qtr neg earnings"
+4/25/2017,Q,25,NS-B,NS-PB,NS.PB,0.07625,NS,9,Moodys,2/28/2018,,"Engy Pipeline, storage, fuels","Pays $1 / qtr, future earnings look slim"
+11/27/2017,Q,25,NS-C,NS-PC,NS.PC,0.09,NS,9,Moodys,2/28/2018,,"Engy Pipeline, storage, fuels","Pays $1 / qtr, future earnings look slim"
+10/5/2017,Q,25,NYMTN,NYMTN,NYMTN,0.08,NYMT,8,"Calldt, Moodys",12/28/2017,No,REIT- Mortgage,Divs decreasing
+12/3/2015,Q,25,PBB,PBB,PBB,0.0625,PSEC,8,"Calldt,Moodys",2/28/2018,No,CEF - Debt,Keeps dropping div and stock price
+10/24/2016,Q,25,PBCTP,PBCTP,PBCTP,0.05625,PBCT,6,"Rate,Calldt,Moodys,NonCum",2/28/2018,,Bank,Looks solid
+10/2/2012,Q,25,PEI-B,PEI-PB,PEI.PB,0.07375,PEI,9,Moodys,2/28/2018,Yes,Mall REIT losing $$,"Stock cut 1/2, still paying divs"
+1/18/2017,Q,25,PEI-C,PEI-PC,PEI.PC,0.072,PEI,9,Moodys,2/28/2018,Yes,Mall REIT losing $$,"Stock cut 1/2, still paying divs"
+9/8/2017,Q,25,PEI-D,PEI-PD,PEI.PD,0.06875,PEI,9,Moodys,2/28/2018,Yes,Mall REIT losing $$,"Stock cut 1/2, still paying divs"
+10/18/2017,Q,25,PLYM-A,PLYM-PA,PLYM.PA,0.075,PLYM,9,Moodys,12/14/2017,No,REIT - Industrial,"Common ok, but no history"
+3/9/2017,Q,25,PMT-A,PMT-PA,PMT.PA,0.08125,PMT,8,"Calldt,Moodys",2/28/2018,,REIT - Mortgage,"M-reit dropped div, e looks good"
+6/27/2017,Q,25,PMT-B,PMT-PB,PMT.PB,0.08,PMT,8,"Calldt,Moodys",2/28/2018,,REIT - Mortgage,"M-reit dropped div, e looks good"
+2/12/2013,Q,25,PRE-F,PRE-PF,PRE.PF,0.05875,PRE,9,Foreign,2/15/2018,No,Bermuda Reinsurer no common,Acquired by Givanni Angelli BV (private)
+10/25/2012,Q,25,RF-A,RF-PA,RF.PA,0.06375,RF,8,"Moodys,NonCum",2/28/2018,Yes,Bank,Good bank earnings and divs
+4/24/2014,Q,25,RF-B,RF-PB,RF.PB,0.06375,RF,7,"Calldt,Moodys,NonCum",2/28/2018,Yes,Bank,Good bank earnings and divs
+6/1/2016,Q,25,RZB,RZB,RZB,0.0575,RGA,8,"Rate,Calldt",2/28/2018,Yes,Reinsurer,Solid divs and earnings
+11/2/2017,Q,25,SBLKZ,SBLKZ,SBLKZ,0.083,SBLK,7,"Calldt,Moodys,Foreign",1/31/2018,Maybe,"Dry bulk shipper, minerals, grains and steel","Cancelled div, rev split on shrs, but outlook is up"
+8/16/2017,Q,25,SCA,SCA,SCA,0.0575,SCM,7,"Rate,Calldt,Moodys",2/28/2018,No,CEF - Midmkt Loans,Looks solid for CEF
+7/11/2016,Q,25,SF-A,SF-PA,SF.PA,0.0625,SF,8,"Moodys,NonCum",2/28/2018,,"Ibank, Asset Mgr","Just started divs, earnings good"
+9/15/2014,Q,25,SLTB,SLTB,SLTB,0.075,SALT,7,"Calldt,Moodys,Foreign",2/28/2018,,48 Ship shipper,"pfd back from 8, just started div on commn"
+10/7/1997,Q,25,STAR-D,STAR-PD,STAR.PD,0.08,STAR,9,Moodys,2/28/2018,No,REIT - RE Loans,"No Divs, future earnings look ok"
+12/10/2003,Q,25,STAR-G,STAR-PG,STAR.PG,0.0765,STAR,9,Moodys,2/28/2018,No,REIT - RE Loans,"No Divs, future earnings look ok"
+2/27/2004,Q,25,STAR-I,STAR-PI,STAR.PI,0.075,STAR,9,Moodys,2/28/2018,No,REIT - RE Loans,"No Divs, future earnings look ok"
+10/2/2017,Q,25,STL-A,STL-PA,STL.PA,0.065,STL,8,"Moodys,NonCum",12/28/2017,Yes,"NY Bank, 'Sterling'",Very solid everything
+3/21/2013,Q,25,TCBIP,TCBIP,TCBIP,0.065,TCBI,8,"Moodys,NonCum",2/28/2018,No,Bank,No divs but good appreciation and E
+9/6/2017,Q,25,TCGP,TCGP,TCGP,0.05875,CG,7,"Rate,Moodys,NonCum",2/28/2018,No,Asset Mgr,"variable divs, good earnings"
+6/6/2016,Q,25,VR-A,VR-PA,VR.PA,0.05875,VR,7,"Rate,NonCum,Foreign",2/28/2018,,ReInsurer,AIG buying all cash mid-2018
+6/12/2017,Q,25,VR-B,VR-PB,VR.PB,0.058,VR,7,"Rate,NonCum,Foreign",2/28/2018,,ReInsurer,AIG buying all cash mid-2018
+2/28/2013,Q,25,VTRB,VTRB,VTRB,0.0545,VTR,9,Rate,2/28/2018,Yes,"3net, sr living, office, US,UK,Canada",Very solid REIT
+1/31/2013,Q,25,ZB-G,ZB-PG,ZB.PG,0.063,ZION,7,"Calldt,Moodys,NonCum",2/28/2018,,Western states bank,"Long history, solid rising divs"
+4/29/2013,Q,25,ZB-H,ZB-PH,ZB.PH,0.0575,ZION,6,"Rate,Calldt,Moodys,NonCum",2/28/2018,,Western states bank,"Long history, solid rising divs"
